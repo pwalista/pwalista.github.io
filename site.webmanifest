@@ -5,6 +5,25 @@
   "display": "standalone",
   "background_color": "#fffbfe",
   "theme_color": "#fffbfe",
+
+"description": "PWA con componentes de Material Design.",
+ "screenshots": [
+  {
+   "src": "/img/screenshot_horizontal.png",
+   "sizes": "1302x576",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "PWA con Material Design"
+  },
+  {
+   "src": "/img/screenshot_vertical.png",
+   "sizes": "495x803",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "PWA con Material Design (2)"
+  }
+ ],
+
   "icons":[
   {
     "purpose": "any maskable",
