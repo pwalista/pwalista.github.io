@@ -15,7 +15,7 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "1.05"
+const VERSION = "1.06"
 
 /**
  * Nombre de la carpeta de caché.
@@ -76,6 +76,7 @@ const ARCHIVOS = [
  "js/lib/resaltaSiEstasEn.js",
  "js/lib/custom/md-app-bar.js",
  "ungap/custom-elements.js",
+ "/"
 ]
 
 // Verifica si el código corre dentro de un service worker.
