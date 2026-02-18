@@ -64,7 +64,7 @@ const ARCHIVOS = [
  "img/maskable_icon_x96.png",
  "img/penta.jpeg",
  "img/pentaiguana.jpeg",
- "img/pentamisterio.jpeg",
+ "img/pentamisterio .jpeg",
  "img/pentamericano.jpeg",
  "img/pentamono.jpeg",
  "img/screenshot_horizontal.png",
