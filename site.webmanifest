@@ -24,7 +24,17 @@
   }
  ],
 
+
+
   "icons":[
+
+  {
+  "src": "img/icono2048.png",
+  "sizes": "2048x2048",
+  "type": "image/png",
+  "purpose": "any"
+},
+
   {
     "purpose": "maskable",
     "sizes": "2730x2730",
