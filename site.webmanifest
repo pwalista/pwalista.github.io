@@ -26,7 +26,7 @@
 
   "icons":[
   {
-    "purpose": "any maskable",
+    "purpose": "maskable",
     "sizes": "2730x2730",
     "src": "img/maskable_icon.png",
     "type": "image/png"
@@ -56,7 +56,7 @@
     "type": "image/png"
   },
   {
-    "purpose": "any maskable",
+    "purpose": "maskable",
     "sizes": "192x192",
     "src": "img/maskable_icon_x192.png",
     "type": "image/png"
