@@ -177,3 +177,12 @@ a {
   white-space: normal !important;
   max-height: none !important;
 }
+
+/* Quitar cualquier límite de altura en Ayuda */
+.ayuda-completa .md-three-line,
+.ayuda-completa .md-two-line {
+  height: auto !important;
+  min-height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
