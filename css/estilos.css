@@ -164,3 +164,16 @@ a {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+/* Forzar que la sección Ayuda no recorte texto */
+.ayuda-completa .md-three-line .supporting,
+.ayuda-completa .md-two-line .supporting {
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  line-clamp: unset !important;
+  -webkit-box-orient: unset !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  white-space: normal !important;
+  max-height: none !important;
+}
