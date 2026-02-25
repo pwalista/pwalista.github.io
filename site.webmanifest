@@ -1,7 +1,7 @@
  {
   "name": "Equipo de Desarrollo PWA",
   "short_name": "Equipo PWA",
-  "start_url": "./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fffbfe",
   "theme_color": "#fffbfe",
@@ -26,7 +26,7 @@
 
   "icons":[
   {
-    "purpose": "any",
+    "purpose": "maskable",
     "sizes": "2730x2730",
     "src": "img/maskable_icon.png",
     "type": "image/png"
@@ -56,7 +56,7 @@
     "type": "image/png"
   },
   {
-    "purpose": "maskable",
+    "purpose": "any",
     "sizes": "192x192",
     "src": "img/maskable_icon_x192.png",
     "type": "image/png"
@@ -68,7 +68,7 @@
     "type": "image/png"
   },
   {
-    "purpose": "maskable",
+    "purpose": "any",
     "sizes": "512x512",
     "src": "img/maskable_icon_x512.png",
     "type": "image/png"
